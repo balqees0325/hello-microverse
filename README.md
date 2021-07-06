@@ -2,7 +2,7 @@
 
 > Set up a "Hello Microverse" project.
 
-![Screenshot from 2021-06-01 14-58-00](https://user-images.githubusercontent.com/10219539/120335945-cf899180-c2e9-11eb-9835-d284716371a9.png)
+![Live Demo](https://user-images.githubusercontent.com/66781780/124650508-e3a54d80-deaa-11eb-91a9-7f4b5b45432e.png)
 
 In this project, we will set up a "Hello world" repository. No complex coding is required for this exercise. Our goal here is to master all of the tools and best practices we learned about in previous steps.
 
@@ -15,7 +15,7 @@ In this project, we will set up a "Hello world" repository. No complex coding is
 
 To get a local copy up and running follow these simple example steps.
 
-`git clone https://github.com/usmansbk/hello-microverse`
+`https://github.com/balqees0325/hello-microverse.git`
 
 change into the working directory.
 
