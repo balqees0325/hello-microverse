@@ -2,7 +2,7 @@
 
 > Set up a "Hello Microverse" project.
 
-![Live Demo](https://user-images.githubusercontent.com/66781780/124650508-e3a54d80-deaa-11eb-91a9-7f4b5b45432e.png)
+![image](https://user-images.githubusercontent.com/66781780/124650508-e3a54d80-deaa-11eb-91a9-7f4b5b45432e.png)
 
 In this project, we will set up a "Hello world" repository. No complex coding is required for this exercise. Our goal here is to master all of the tools and best practices we learned about in previous steps.
 
